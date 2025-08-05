@@ -93,6 +93,9 @@ The deployed model demonstrated high accuracy in classifying infrastructure proj
 <img width="1831" height="800" alt="image" src="https://github.com/user-attachments/assets/668027b6-4cbc-43e2-b522-bc8a331ad0ad" />
 <img width="1850" height="889" alt="image" src="https://github.com/user-attachments/assets/e319a9da-da51-44b0-b46f-c469f47fb364" />
 <img width="1784" height="766" alt="image" src="https://github.com/user-attachments/assets/2858fb7d-3811-4623-9365-3de6f037156c" />
+**Accuracy show in following model :**
+<img width="1214" height="555" alt="image" src="https://github.com/user-attachments/assets/b6d43367-6ff7-4340-a2dd-e189c0867a34" />
+
 <img width="1693" height="798" alt="image" src="https://github.com/user-attachments/assets/d95f6253-000b-438e-9860-47ddf39ae6b2" />
 <img width="1776" height="555" alt="image" src="https://github.com/user-attachments/assets/7be91e5f-7ae2-4e47-ae3e-d175efdf47fe" />
 
